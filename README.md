@@ -5,8 +5,7 @@
 - The main power source is the Power plants, who then supply power to houses. House supply power to appliances, according to a predictive schedule.
 - Houses can choose to switch their subscription across Power stations based on which station is giving best availabe rate.
 - Total consumption of houses is sum of all appliances, light, car, etc. inside the house.
-
-The electric bill for each house is created on the fly, in real time.
+- The electric bill for each house is created on the fly, in real time.
 
 
 # Run this simulation by:
