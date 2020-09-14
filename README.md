@@ -1,4 +1,4 @@
-# smart grid simulation using jade framework
+# smart grid simulation using JADE framework
 
 The simualtion is based on certain aspects of future smart grid system, proposed in following IEEE paper:
 
