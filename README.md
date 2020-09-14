@@ -3,6 +3,7 @@
 The simualtion is based on certain aspects of future smart grid system, proposed in following IEEE paper:
 
 *Simulation of a Smart Grid City with Software Agents: by Stamatis Karnouskos & Thiago Nass de Holanda, SAP Research (www.sap.com)*
+https://www.researchgate.net/publication/221141856_Simulation_of_a_Smart_Grid_City_with_Software_Agents
 
 - This project uses a java farmework 'JADE' to create a network of agents, running in independent threads, communicating with each other to form a smart grid system.
 - Every entity producing/consuming electricity from power supply grid is part of the system.
